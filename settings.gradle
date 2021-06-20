@@ -1,0 +1,5 @@
+rootProject.name = "NutriFact"
+include ':app'
+include ':data'
+include ':device'
+include ':domain'
