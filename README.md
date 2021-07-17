@@ -8,7 +8,7 @@ Android
 
 100% Kotlin code
 
-Clean Architecture for modularization, decoupling and scaling and much more.
+Clean Architecture for modularization, decoupling, scaling and much more.
 
 MVVM design pattern
 
