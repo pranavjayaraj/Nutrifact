@@ -16,8 +16,6 @@ Rx for asynchronous programing
 
 Dagger2 for Dependency Injection
 
-Room DB for caching and data persistence
-
 retrofit for networking
 
 Glide for image loading and caching
